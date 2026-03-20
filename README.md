@@ -42,12 +42,3 @@ Beyond web development, I actively explore cybersecurity through CTF challenges,
 
 ## ⌛ My Coding Stats 
 [![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=paulosberihun&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=paulosberihun&label=Profile%20Views&color=12&icon=4)](https://visitcount.itsvg.in)
-[![Hits](https://hits.sh/github.com/paulosberihun.svg?style=for-the-badge&label=visits)](https://hits.sh/github.com/paulosberihun/)
