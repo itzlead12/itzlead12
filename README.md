@@ -36,7 +36,7 @@ Beyond web development, I actively explore cybersecurity through CTF challenges,
 
 
 ## 📊 GitHub Stats 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=paulosberihun&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itzlead12&theme=dark&hide_border=false)<br/>
 
 
 ## ⌛ My Coding Stats 
