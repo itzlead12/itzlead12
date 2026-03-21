@@ -34,10 +34,3 @@ Beyond web development, I actively explore cybersecurity through CTF challenges,
 - **Dagu** – Secure communication platform with a focus on privacy and system-level design  
 - **Exam System** – Full-stack examination management system with backend-heavy architecture  
 
-
-## 📊 GitHub Stats 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itzlead12&theme=dark&hide_border=false)<br/>
-
-
-## ⌛ My Coding Stats 
-[![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)<br/>
