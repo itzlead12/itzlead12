@@ -63,27 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzlead12&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
----
-
-## Connect with Me
-
-<div align="center">
-  <a href="https://github.com/paulosberihun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/paulosberihun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/paulosberihun" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/paulosberihun" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-<p align="center">
+<p>
   Code for life, build for impact.
 </p>
