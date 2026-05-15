@@ -51,10 +51,3 @@
 - **Member Management System** – IT club management system for SSC, streamlining member tracking and administration.
 
 ---
-
-## GitHub Stats
-
-<div align="center"><div align="center"> <!-- Total contributions including private repos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itzlead12&show_icons=true&theme=radical&include_all_commits=true" height="180" alt="GitHub Stats" /> <!-- Contribution streak (public only) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzlead12&theme=radical" height="180" alt="GitHub Streak" /> </div>
-</div>
