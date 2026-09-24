@@ -74,7 +74,7 @@ I am a secure software developer and cybersecurity engineer dedicated to buildin
 | Project | Description | Role / Tech |
 | :--- | :--- | :--- |
 | **[GashaX Security](#)** | Co-founded an independent cybersecurity community focusing on threat research and secure systems development. | `Founder` `Infosec` |
-| **[AegisTwin](#)** | Advanced security tool/platform designed for next-generation threat modeling and environment simulation. | `Security Engineering` |
+| **[Mekit](#)** | Advanced security tool/platform designed for next-generation threat modeling and environment simulation. | `Security Engineering` |
 | **[Tegen Cloud](#)** | Cloud-based architecture for securely storing highly sensitive information, built on robust TFGBV protection principles. | `Cloud Sec` `Backend` |
 | **[EqubPro](#)** | Fintech platform modernizing traditional rotating savings associations through digital automation and algorithmic risk analysis. | `FastAPI` `Architecture` |
 | **[Online Examination System](#)** | Comprehensive academic evaluation platform featuring secure exam conduction, anti-tampering, and real-time result processing. | `Full-Stack` `RBAC` |
@@ -88,25 +88,7 @@ I am a secure software developer and cybersecurity engineer dedicated to buildin
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=itzlead12&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8&sideNums=7982a9&sideLabels=7982a9&dates=7982a9&bg_color=1a1b26" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzlead12&theme=tokyonight&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=1a1b26&bg_color=1a1b26" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
 ## Philosophy
 
 > *"Talk is cheap. Show me the code. The world doesn’t run on ideas alone; it runs on people who make those ideas work — line by line, bug by bug, solution by solution."*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer"/>
-</p>
