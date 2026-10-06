@@ -69,25 +69,6 @@ I am a secure software developer and cybersecurity engineer dedicated to buildin
 
 ---
 
-## Featured Operations & Projects
-
-| Project | Description | Role / Tech |
-| :--- | :--- | :--- |
-| **[GashaX Security](#)** | Co-founded an independent cybersecurity community focusing on threat research and secure systems development. | `Founder` `Infosec` |
-| **[Mekit](#)** | Advanced security tool/platform designed for next-generation threat modeling and environment simulation. | `Security Engineering` |
-| **[Tegen Cloud](#)** | Cloud-based architecture for securely storing highly sensitive information, built on robust TFGBV protection principles. | `Cloud Sec` `Backend` |
-| **[EqubPro](#)** | Fintech platform modernizing traditional rotating savings associations through digital automation and algorithmic risk analysis. | `FastAPI` `Architecture` |
-| **[Online Examination System](#)** | Comprehensive academic evaluation platform featuring secure exam conduction, anti-tampering, and real-time result processing. | `Full-Stack` `RBAC` |
-| **[KUESSC Website](#)** | Official digital infrastructure for the Kotebe University of Education Science Shared Campus IT Club. | `Web Dev` `Leadership` |
-
----
-
-## Achievements & Milestones
-
-> **picoCTF 2026:** Led GashaX Security to rank **101st in Africa**, demonstrating high proficiency in cryptography, web exploitation, reverse engineering, and forensics against a global talent pool.
-
----
-
 ## Philosophy
 
 > *"Talk is cheap. Show me the code. The world doesn’t run on ideas alone; it runs on people who make those ideas work — line by line, bug by bug, solution by solution."*
